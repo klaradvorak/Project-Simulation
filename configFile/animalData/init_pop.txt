@@ -1,0 +1,3 @@
+Cow 10
+Deer 20
+Horse 30

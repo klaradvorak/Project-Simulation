@@ -1,0 +1,1 @@
+Animal{id=71, animalType=COW, age=1}
